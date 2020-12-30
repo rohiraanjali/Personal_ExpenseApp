@@ -1,16 +1,9 @@
-# flutternewapp
+# Personal Expense App 
 
-A new Flutter project.
+An expense tracker app made using flutter helps keeping track of your personal / day to day expenses. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features 
+1) Add , update , modify or delete expenses as per your wish . 
+2) Maintain a track of your daily expenses 
+3) Analyse your monthly / yearly expenses with the help of a graph which keeps you up to date . 
+3) A user friendly UI for making the process of maintaining expenses much easier . 
